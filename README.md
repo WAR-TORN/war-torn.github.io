@@ -1,2 +1,2 @@
-# wartorn.github.io
+# war-torn.github.io
 TBA
