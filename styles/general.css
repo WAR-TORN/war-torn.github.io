@@ -1,0 +1,54 @@
+@font-face {
+  font-family: 'NoRefunds';
+  src: url('../fonts/NoRefunds.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Titillium Web';
+  src: url('../fonts/TitilliumWeb-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+html,
+body {
+  height: 100%;
+}
+.war {
+  background-image: url('../images/war.png');
+  background-position: unset;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.reforger {
+  text-shadow: 2px 2px 4px rgba(58, 0, 0, 0.5);
+  color: #fcfcfc;
+  font-family: 'Titillium Web';
+  /* font-size: 120px; */
+  font-weight: normal;
+  letter-spacing: 8.1px;
+}
+
+.for {
+  text-shadow: 2px 2px 4px rgba(58, 0, 0, 0.5);
+  color: #fcfcfc;
+  font-family: 'NoRefunds';
+  /* font-size: 96px; */
+  font-weight: 400;
+  letter-spacing: 8.1px;
+}
+
+img {
+  -moz-user-select: none;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+.logo {
+  height: 450px;
+}
