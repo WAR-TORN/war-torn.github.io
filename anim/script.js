@@ -44,9 +44,9 @@ random alpha value, and a random color. */
       else this.y = m * H;
       if (o && o.a) this.a = o.a;
       else this.a = m * (p - 4) + 1;
-      this.r = randomRange(30, 100, m);
-      this.g = randomRange(3, 20, m);
-      this.b = randomRange(3, 20, m);
+      this.r = randomRange(80, 120, m);
+      this.g = randomRange(53, 70, m);
+      this.b = randomRange(53, 70, m);
 
       if (o && o.dp) this.dp = o.dp;
       else {
