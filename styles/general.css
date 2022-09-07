@@ -19,15 +19,16 @@ body {
   height: 100vh;
 }
 .war {
-  background-image: url('../images/war.webp');
-  background-position: unset;
-  background-repeat: no-repeat;
+  background-image: url('../images/sc2.webp');
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 100vh;
 }
 
 .for {
   text-shadow: 2px 2px 4px rgba(58, 0, 0, 0.5);
-  /* color: #fcfcfc; */
+  color: #fcfcfc;
   font-family: 'NoRefunds';
   /* font-size: 96px; */
   font-weight: 400;
