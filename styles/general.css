@@ -19,7 +19,7 @@ body {
   height: 100vh;
 }
 .war {
-  background-image: url('../images/sc2.webp');
+  background-image: url('../images/sc2-blur.webp');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
